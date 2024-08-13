@@ -1,0 +1,2 @@
+[maquinas]
+192.168.18.50 ansible_user=formacion
